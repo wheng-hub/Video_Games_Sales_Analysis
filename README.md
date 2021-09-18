@@ -12,3 +12,5 @@ Source: [Kaggle Video Games Sales Dataset](https://www.kaggle.com/sidtwr/videoga
 
 ## Software used
 Tableau desktop
+
+**Kindly look into the pdf to view more details about the project.**
